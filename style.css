@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+
+ul li a {
+    color: #A6A8AD;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+
+.header-btn button {
+    padding: 8px 21px;
+    border-radius: 32px;
+    border: 1px solid #FFF;
+    background: #FFF;
+    color: #121214;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18.4px;
+}
+
+.header-right a {
+    color: #A6A8AD;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+
+
+
+/* hero section */
+
+
+#hero{
+    background: url("./img/IMAGE.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.hero-title{
+    width: 513px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 72px;
+    letter-spacing: 1.08px;
+}
+
+
+.hero-text{
+    width: 412px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.hero-btn{
+    width: 125px;
+    height: 56px;
+    border-radius: 8px;
+    background: #03F;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.about-btn{
+    width: 159px;
+    height: 36px;
+    border-radius: 8px;
+    background: #03F;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
